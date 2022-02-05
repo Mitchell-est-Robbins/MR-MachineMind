@@ -1,0 +1,20 @@
+{
+  "name": "mr-machinemind",
+  "version": "1.0.0",
+  "dependencies": {},
+  "description": "Experimenting with machine learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitchell-est-Robbins/MR-MachineMind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitchell-est-Robbins/MR-MachineMind/issues"
+  },
+  "homepage": "https://github.com/Mitchell-est-Robbins/MR-MachineMind#readme"
+}
